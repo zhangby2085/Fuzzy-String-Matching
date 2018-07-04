@@ -22,3 +22,12 @@ Information interaction encompasses searching in the larger task context. This m
 are framed by a motivating task that triggers searching. We aim at better understanding the rationale
 behind actions and by this enable combining task-based approach into tool development and
 evaluation.
+
+# ABOUT
+This repository contains the code to collect .  
+The tasks include:
+1. collect 
+2. Language 
+3. Identity 
+4. Create
+5. Perform 
