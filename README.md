@@ -1,12 +1,11 @@
 # Fuzzy-String-Matching
 
 We aim at networking and collaboration with history researchers working with digital resources in
-Finland. This presentation describes the aims and the implementation of the project. Last, we will
-sketch what kind of collaborations we are looking for.
+Finland. This study describes the aims and the implementation of the project. 
 
 In addition to historians themselves, the digital methods in history research have drawn the attention
 of researchers in information studies. Our fields of study include information retrieval and
-information behavior. This is an international research effort aiming at supporting digital historians
+information behavior. This is an international research effort aiming at #supporting digital historians
 research work tasks. The context of the research is historian’s research work and we will particularly
 focus on (a) research processes and needs descriptions of the historians' work tasks, and (b) the study
 the information retrieval in historical document collections, and how to support these with fuzzy
