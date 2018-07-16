@@ -30,3 +30,10 @@ The tasks include:
 3. Identity 
 4. Create
 5. Perform 
+
+## Data sources
+
+* [Sotasampo resourse/dataset](http://www.ldf.fi/dataset/warsa)
+* [Virta REST](https://confluence.csc.fi/display/VIR/REST-lukurajapinta)
+* Twitter
+* [Scraping the ACM Library](https://doi.org/10.1145/511144.511146)
