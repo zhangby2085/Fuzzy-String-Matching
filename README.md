@@ -33,7 +33,7 @@ The tasks include:
 
 ## Data sources
 
-* [Sotasampo resourse/dataset](http://www.ldf.fi/dataset/warsa)
+* [Sotasampo resourse/dataset](http://www.ldf.fi/dataset/warsa)(SQARQL query https://www.w3.org/2009/08/skos-reference/skos.html#)
 * [Virta REST](https://confluence.csc.fi/display/VIR/REST-lukurajapinta)
 * Twitter
 * [Scraping the ACM Library](https://doi.org/10.1145/511144.511146)
