@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.genmymodel.flowchart.core:FlowchartModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.flowchart.core="http://com.genmymodel.flowchart.core/1.0" xmi:id="_pZuN0Is2Eei5SqevG77dlg" name="model">
+  <eAnnotations xmi:id="_pZuN0Ys2Eei5SqevG77dlg" source="genmymodel">
+    <details xmi:id="_pZuN0os2Eei5SqevG77dlg" key="uuid" value="e6f8ca52-b213-45ed-b7b3-461a072ea8d8"/>
+  </eAnnotations>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:StartShape" xmi:id="_pZuN04s2Eei5SqevG77dlg" name="Original OCRed letter">
+    <eAnnotations xmi:id="_pZuN1Is2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN1Ys2Eei5SqevG77dlg" key="uuid" value="_dkQz0Fq_EDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:ActionShape" xmi:id="_pZuN1os2Eei5SqevG77dlg" name="detect Unicode">
+    <eAnnotations xmi:id="_pZuN14s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN2Is2Eei5SqevG77dlg" key="uuid" value="_2z99gFq_EDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:ActionShape" xmi:id="_pZuN2Ys2Eei5SqevG77dlg" name="end of line ">
+    <eAnnotations xmi:id="_pZuN2os2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN24s2Eei5SqevG77dlg" key="uuid" value="_Epyd0FrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:ActionShape" xmi:id="_pZuN3Is2Eei5SqevG77dlg" name="tokenisze">
+    <eAnnotations xmi:id="_pZuN3Ys2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN3os2Eei5SqevG77dlg" key="uuid" value="_KwU-QVrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DecisionShape" xmi:id="_pZuN34s2Eei5SqevG77dlg" name="stem">
+    <eAnnotations xmi:id="_pZuN4Is2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN4Ys2Eei5SqevG77dlg" key="uuid" value="_rKaD8VrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN4os2Eei5SqevG77dlg" start="_pZuN34s2Eei5SqevG77dlg" end="_pZuN34s2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN44s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN5Is2Eei5SqevG77dlg" key="uuid" value="_wLR80lrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN5Ys2Eei5SqevG77dlg" start="_pZuN04s2Eei5SqevG77dlg" end="_pZuN1os2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN5os2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN54s2Eei5SqevG77dlg" key="uuid" value="_wt6v0lrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN6Is2Eei5SqevG77dlg" start="_pZuN2Ys2Eei5SqevG77dlg" end="_pZuN3Is2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN6Ys2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN6os2Eei5SqevG77dlg" key="uuid" value="_yob7w1rAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN64s2Eei5SqevG77dlg" start="_pZuN34s2Eei5SqevG77dlg" end="_pZuN34s2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN7Is2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN7Ys2Eei5SqevG77dlg" key="uuid" value="_zqDJwlrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DelayShape" xmi:id="_pZuN7os2Eei5SqevG77dlg" name="remove stop stems ">
+    <eAnnotations xmi:id="_pZuN74s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN8Is2Eei5SqevG77dlg" key="uuid" value="_1N6wQVrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN8Ys2Eei5SqevG77dlg" start="_pZuN34s2Eei5SqevG77dlg" end="_pZuN7os2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN8os2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN84s2Eei5SqevG77dlg" key="uuid" value="_6fuBEVrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:ActionShape" xmi:id="_pZuN9Is2Eei5SqevG77dlg" name="results">
+    <eAnnotations xmi:id="_pZuN9Ys2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN9os2Eei5SqevG77dlg" key="uuid" value="_7ZdsgVrAEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN94s2Eei5SqevG77dlg" start="_pZuN34s2Eei5SqevG77dlg" end="_pZuN9Is2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN-Is2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN-Ys2Eei5SqevG77dlg" key="uuid" value="_B2G_01rBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuN-os2Eei5SqevG77dlg" start="_pZuN7os2Eei5SqevG77dlg" end="_pZuN9Is2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuN-4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN_Is2Eei5SqevG77dlg" key="uuid" value="_CqOkYVrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:EndShape" xmi:id="_pZuN_Ys2Eei5SqevG77dlg" name="intrepretation">
+    <eAnnotations xmi:id="_pZuN_os2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuN_4s2Eei5SqevG77dlg" key="uuid" value="_Ptp-cVrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOAIs2Eei5SqevG77dlg" start="_pZuN9Is2Eei5SqevG77dlg" end="_pZuN_Ys2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOAYs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOAos2Eei5SqevG77dlg" key="uuid" value="_Ts2X41rBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DocumentShape" xmi:id="_pZuOA4s2Eei5SqevG77dlg" name="UTF-8">
+    <eAnnotations xmi:id="_pZuOBIs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOBYs2Eei5SqevG77dlg" key="uuid" value="_cyiKAVrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DocumentShape" xmi:id="_pZuOBos2Eei5SqevG77dlg" name="dash handling, Unicode format">
+    <eAnnotations xmi:id="_pZuOB4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOCIs2Eei5SqevG77dlg" key="uuid" value="_imxZgVrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOCYs2Eei5SqevG77dlg" start="_pZuN2Ys2Eei5SqevG77dlg" end="_pZuOBos2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOCos2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOC4s2Eei5SqevG77dlg" key="uuid" value="_im1D4FrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DocumentShape" xmi:id="_pZuODIs2Eei5SqevG77dlg" name="remove stopwords">
+    <eAnnotations xmi:id="_pZuODYs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuODos2Eei5SqevG77dlg" key="uuid" value="_pMIj8VrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOD4s2Eei5SqevG77dlg" start="_pZuN3Is2Eei5SqevG77dlg" end="_pZuODIs2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOEIs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOEYs2Eei5SqevG77dlg" key="uuid" value="_pMLnRVrBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOEos2Eei5SqevG77dlg" start="_pZuN3Is2Eei5SqevG77dlg" end="_pZuN34s2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOE4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOFIs2Eei5SqevG77dlg" key="uuid" value="_4wwvc1rBEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:StoredDataShape" xmi:id="_pZuOFYs2Eei5SqevG77dlg" name="frequency">
+    <eAnnotations xmi:id="_pZuOFos2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOF4s2Eei5SqevG77dlg" key="uuid" value="_FfC_8VrCEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOGIs2Eei5SqevG77dlg" start="_pZuN9Is2Eei5SqevG77dlg" end="_pZuOFYs2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOGYs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOGos2Eei5SqevG77dlg" key="uuid" value="_FfE1IVrCEDaKK-blC70iAw"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOG4s2Eei5SqevG77dlg" start="_pZuOA4s2Eei5SqevG77dlg" end="_pZuOA4s2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOHIs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOHYs2Eei5SqevG77dlg" key="uuid" value="_7cyPsmr6EDaiAuZNaGeWcg"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOHos2Eei5SqevG77dlg" start="_pZuOA4s2Eei5SqevG77dlg" end="_pZuN1os2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOH4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOIIs2Eei5SqevG77dlg" key="uuid" value="_wYHiAW1jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:ActionShape" xmi:id="_pZuOIYs2Eei5SqevG77dlg" name="decode">
+    <eAnnotations xmi:id="_pZuOIos2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOI4s2Eei5SqevG77dlg" key="uuid" value="_zN2ZAW1jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOJIs2Eei5SqevG77dlg" start="_pZuN1os2Eei5SqevG77dlg" end="_pZuOIYs2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOJYs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOJos2Eei5SqevG77dlg" key="uuid" value="_1nCd821jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOJ4s2Eei5SqevG77dlg" start="_pZuOIYs2Eei5SqevG77dlg" end="_pZuN2Ys2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOKIs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOKYs2Eei5SqevG77dlg" key="uuid" value="_2c-nc21jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:DocumentShape" xmi:id="_pZuOKos2Eei5SqevG77dlg" name="clear string form">
+    <eAnnotations xmi:id="_pZuOK4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOLIs2Eei5SqevG77dlg" key="uuid" value="_5EFzoG1jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOLYs2Eei5SqevG77dlg" start="_pZuOKos2Eei5SqevG77dlg" end="_pZuOKos2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOLos2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOL4s2Eei5SqevG77dlg" key="uuid" value="_5EGasG1jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuOMIs2Eei5SqevG77dlg" start="_pZuOIYs2Eei5SqevG77dlg" end="_pZuOKos2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuOMYs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOMos2Eei5SqevG77dlg" key="uuid" value="_8f0To21jEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:StoredDataShape" xmi:id="_pZuOM4s2Eei5SqevG77dlg" name="NLP">
+    <eAnnotations xmi:id="_pZuONIs2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuONYs2Eei5SqevG77dlg" key="uuid" value="_YZa3wG1kEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+  <ownedElements xsi:type="com.genmymodel.flowchart.core:FlowchartFlow" xmi:id="_pZuONos2Eei5SqevG77dlg" start="_pZuN9Is2Eei5SqevG77dlg" end="_pZuOM4s2Eei5SqevG77dlg">
+    <eAnnotations xmi:id="_pZuON4s2Eei5SqevG77dlg" source="genmymodel">
+      <details xmi:id="_pZuOOIs2Eei5SqevG77dlg" key="uuid" value="_cChFYG1kEDa2eoXq2cekiA"/>
+    </eAnnotations>
+  </ownedElements>
+</com.genmymodel.flowchart.core:FlowchartModel>
