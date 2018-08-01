@@ -173,7 +173,6 @@ ofp.write(u"\n")
 ofp.close() # remember to close the file
 #####################################################################
  
- 
 #Old code clips
 #for utoken in all_utokens:
 #    if u'\ufeff' in utoken:
