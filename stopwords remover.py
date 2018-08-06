@@ -9,11 +9,12 @@ import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 #print stopwords.fileids()
-u = en_stops = set(stopwords.words('finnish'))
-U = ', '.join(u) #turn set into sr
+u = en_stops = set(stopwords.words('finnish'))  # A set of Finnish stopwords, the stopwords can be updated for our own dataset
+U = ', '.join(u) #turn set into str
 #all_words = open("./TXT_40.txt").read().split()
-all_words = open("./testrun.txt").read().split()
+all_words = open("./testrun.txt").read().split() # We test whether (in Unicode-form) words in testrun.txt file
+are included in the stopwords set
 for word in all_words:
     uword = word.decode('utf-8')
     if uword not in en_stops:
-        print(uword.encode('utf-8'))
+        print(uword.encode('utf-8')) #f not, word is printed (and in UTF-8 form).
