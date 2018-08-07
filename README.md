@@ -10,8 +10,7 @@ research work tasks. The context of the research is historian’s research work 
 focus on (a) research processes and needs descriptions of the historians' work tasks, and (b) the study
 the information retrieval in historical document collections, and how to support these with fuzzy
 matching methods.
-# Second paragraph mentioning: history domain, research problems (goals), data and methods/methodology (TBII viewpoint),
-# NEs
+# Second paragraph mentioning: history domain, research problems (goals), data and methods/methodology (TBII viewpoint), NEs
 Traditionally, digital access methods in historical research have been studied from the viewpoint of
 the document collections and data. Instead of this data-centric view, we adopt information interaction
 centered view towards accessing digital collection. Information interaction is understood as
