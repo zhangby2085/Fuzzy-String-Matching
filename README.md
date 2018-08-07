@@ -1,6 +1,6 @@
 # Fuzzy-String-Matching 
 Author
-
+number2
 # One paragraph mentioning: EVOLUZ, financed by the Academy of Finland, 2017-2021, with the general goal of ..
 We aim at networking and collaboration with history researchers working with digital resources in
 Finland. This study describes the aims and the implementation of the project. 
