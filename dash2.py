@@ -164,6 +164,7 @@ tokens2 = modify_if_dash_token(tokens1) # list of tokens but those tokens contai
  
 #####################################################################
 # 3 of 3: Write output into file
+# we always use UTF-8 unless there is a good reason to use some other char set
 ofp = open('testrun.txt', 'w') # open file to write
 # catenate token steam into a long string by using spaces as separators; encode Unicode into UTF-8; print to file
 longline = " ".join(tokens2)
