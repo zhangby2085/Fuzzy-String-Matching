@@ -16,11 +16,11 @@ the document collections and data. Instead of this data-centric view, we adopt i
 centered view towards accessing digital collection. Information interaction is understood as
 behavioral and cognitive activities related to task planning, searching and selecting information items,
 working with information items, and synthetizing and reporting.
-
 Information interaction encompasses searching in the larger task context. This means that the actions
 are framed by a motivating task that triggers searching. We aim at better understanding the rationale
 behind actions and by this enable combining task-based approach into tool development and
 evaluation.
+# Third paragraph: keeping track: goals of the project vs the code
 
 # ABOUT
 This repository contains the code to collect .  
