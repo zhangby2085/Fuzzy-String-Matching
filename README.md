@@ -1,12 +1,7 @@
-# Fuzzy-String-Matching 
-Author
-number2
-number 3 test
-number 4
-number 5
-# One paragraph mentioning: EVOLUZ, financed by the Academy of Finland, 2017-2021, with the general goal of ..
-We aim at networking and collaboration with history researchers working with digital resources in
-Finland. This study describes the aims and the implementation of the project. 
+# Fuzzy-String-Matching
+# First paragraph: general description
+Project EVOLUZ, financed by the Academy of Finland (duration: 2017-2021) is a research project, which addresses the need to understand and support historians' work tasks in digital invironment.  Our goal is to understand and to develop methods and tools for improving information interactions of the end users accessing digital cultural heritage collections.  The research is based on the task-based information interactions (TBII paradigm). Personnel: Dr. Heikki Keskustalo (research leader), Dr. Sanna Kumpulainen (user studies), Dr. Boyang Zhang (constructive research and development). National and international cooperation: Dr. Jaap Kamps, University of Amsterdam; Dr. Kimmo Kettunen, National Library of Finland; Dr. Marko Tikka, University of Tampere; Dr. Krisztian NBalog, University of Stavanger; Dr. Thea Lindquist, University of Colorado Boulder.  This GitHub site is intended for documenting and sharing the programming codes developed during the research.
+# 
 In addition to historians themselves, the digital methods in history research have drawn the attention
 of researchers in information studies. Our fields of study include information retrieval and
 information behavior. This is an international research effort aiming at supporting digital historians
@@ -14,7 +9,7 @@ research work tasks. The context of the research is historian’s research work 
 focus on (a) research processes and needs descriptions of the historians' work tasks, and (b) the study
 the information retrieval in historical document collections, and how to support these with fuzzy
 matching methods.
-# Second paragraph mentioning: history domain, research problems (goals), data and methods/methodology (TBII viewpoint), NEs
+# Second paragraph: research-oriented description: history domain, research problems (goals), data and methods/methodology (TBII viewpoint), NEs
 Traditionally, digital access methods in historical research have been studied from the viewpoint of
 the document collections and data. Instead of this data-centric view, we adopt information interaction
 centered view towards accessing digital collection. Information interaction is understood as
